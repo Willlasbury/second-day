@@ -1,3 +1,18 @@
 body {
     background-color: salmon;
 }
+
+img {
+    width: 200px;
+    border-radius: 75%
+}
+
+.test {
+    display: flex
+    
+}
+
+li {
+    font-weight: 900;
+
+}
