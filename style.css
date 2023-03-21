@@ -10,7 +10,22 @@ img {
 .lesson {
     background-color: lemonchiffon;
 }
-
+/* 
 li {
     font-weight: 900;
+} */
+
+#email {
+    font-weight: bold;
+    background-color: lemonchiffon;
+}
+
+
+#github {
+    font-weight: bold;
+    background-color: inherit email;
+}
+
+#portfolio {
+    font-weight: bold;
 }
